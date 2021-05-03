@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
-	"port": "25565",
+	"ip":"fireplayzsmp.mc-srv.com",
+	"port": "27425",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
